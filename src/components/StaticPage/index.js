@@ -44,7 +44,7 @@ function StaticPage(){
                             </ul>
                         </div>
                         <div className='activity'>
-                        <p className='activity-term'>Innovation & Ideation</p>
+                        <p className='activity-term'>Your magic touch</p>
                             <ul className="activity-points">
                                 <li >Secret ingredient for going towards expertise</li>
                             </ul>
@@ -54,7 +54,7 @@ function StaticPage(){
                     <h1 class="activity-heading">Process<span><hr className='line process'/></span></h1>
                     <ul>
                         <li className='process-points'>Check-in  code in a GitHub repo with README containing description and screenshot </li>
-                        <li className='process-points'>Share your GitHub Link in <a href="https://www.kratinmobile.com/" target="_blank" rel="noopener noreferrer" className=''>Exercise Submission</a></li>
+                        <li className='process-points'>Share your GitHub Link in <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYcshu300jgYgms3mfX8-HxgVvOcEmzTJkj0JWeFT4PI7K-Q/viewform?usp=sharing" target="_blank" rel="noopener noreferrer" className=''>Exercise Submission</a></li>
                         <li className='process-points'>Your magic touch</li>
                     </ul>
 
