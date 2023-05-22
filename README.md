@@ -1,6 +1,6 @@
 # Kratin-Logo
 
-Kratin-Logo: Empowering Healthy Aging for Sunita Sharma (65+)
+Kratin-Logo: Empowering Healthy Aging for Sunita Sharma (65+).
 
 ![kratin-screenshot](https://github.com/ashokegorlu/kratin-company-assignment/assets/126849790/62a0ddff-ad63-4861-85d6-d64621bcec27)
 
